@@ -9,7 +9,7 @@ This is a command-line application that may do a variety of tasks in relation to
 
 > Github Repository Link: [https://github.com/nevan-dsouza/employee-tracker-app](https://github.com/nevan-dsouza/employee-tracker-app)
 >
-> Video Link: []()
+> Video Link: [https://youtu.be/P1L20H3hFJI](https://youtu.be/P1L20H3hFJI)
 
 
 ## Table of Contents
@@ -37,7 +37,7 @@ In order to run this program, the user must type "node index.js" in their consol
 
 ### Video Demonstration (Add/Update Tables)
 
-
+https://youtu.be/P1L20H3hFJI
 
 ## License
 
@@ -45,4 +45,4 @@ This project is not under any license.
 
 ## Questions
 
-My GitHub Page: [Bickolus](https://github.com/nevan-dsouza)
+My GitHub Page: [nevan-dsouza](https://github.com/nevan-dsouza)
